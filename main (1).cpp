@@ -4,7 +4,7 @@
 #include <cmath> //for pow function
 using namespace std;
 
-int n, b, a; //declare integer values to take in the grid size, and hole cooridinates
+int n, b, a; //declare integer values to take in the grid size, and hole coordinates
 int arr[128][128]; // max size the array can be printed out
 
 // Function to assure tiles are placed in right triominoes
