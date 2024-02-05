@@ -19,7 +19,7 @@ algorithmic analysis, and the fundamental computing algorithms.
 Discrete Computational Structures: focuses on finite and discrete algebraic structures relating to computers; sets, functions, 
 and relations.
 
-#Freelance Projects
+# Freelance Projects
 Pong_Game: this is a python coding project based on geeks for geeks create pong using python article. The coding is done strictly 
 VIA python and imports the "turtle" library. Turtle is a in-built graphic module in python that allows for teh creations of screens 
 and objects in which a game such as pong can be played. In the code there are four sperate objects created, two paddles(one controlled
